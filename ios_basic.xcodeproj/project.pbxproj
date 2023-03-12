@@ -16,6 +16,7 @@
 		B9F4FDFC29BA559000C392A1 /* ios_basicUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9F4FDFB29BA559000C392A1 /* ios_basicUITestsLaunchTests.swift */; };
 		B9F4FE0929BA593700C392A1 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9F4FE0829BA593700C392A1 /* CircleImage.swift */; };
 		B9F4FE0B29BA5A0000C392A1 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9F4FE0A29BA5A0000C392A1 /* MapView.swift */; };
+		B9FDE3CC29BDB090008FEAB7 /* LandmarkApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9FDE3CB29BDB090008FEAB7 /* LandmarkApp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		B9F4FDFB29BA559000C392A1 /* ios_basicUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ios_basicUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		B9F4FE0829BA593700C392A1 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		B9F4FE0A29BA5A0000C392A1 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		B9FDE3CB29BDB090008FEAB7 /* LandmarkApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkApp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				B9F4FE0829BA593700C392A1 /* CircleImage.swift */,
 				B9F4FE0A29BA5A0000C392A1 /* MapView.swift */,
 				B9F4FDE429BA559000C392A1 /* Preview Content */,
+				B9FDE3CB29BDB090008FEAB7 /* LandmarkApp.swift */,
 			);
 			path = ios_basic;
 			sourceTree = "<group>";
@@ -264,6 +267,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B9F4FDE129BA558F00C392A1 /* ContentView.swift in Sources */,
+				B9FDE3CC29BDB090008FEAB7 /* LandmarkApp.swift in Sources */,
 				B9F4FE0B29BA5A0000C392A1 /* MapView.swift in Sources */,
 				B9F4FDDF29BA558F00C392A1 /* ios_basicApp.swift in Sources */,
 				B9F4FE0929BA593700C392A1 /* CircleImage.swift in Sources */,
